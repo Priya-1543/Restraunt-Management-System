@@ -21,12 +21,11 @@ I have created a consol based Restraunt Management program in java, using the co
 
   Here are the scree-shots of the program. 
 
-  `
   <img width="716" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/3963996c-c674-4496-b730-1e0ed2dff4e2">
-  <img width="572" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/2eb8c683-544b-4454-9eff-a9c8bc575316">
-  <img width="554" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/a7e79214-d0df-48bd-a2bb-36748b6278d4">
-  <img width="484" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/0fbe4714-f33d-4f52-8efc-3e055a124d76">
-  <img width="524" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/dce74a43-0681-49d9-a4f7-cd24ab1a3390">
-  <img width="565" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/851199f7-ae1d-4d0c-bb06-d8539b2150dd">
-  <img width="602" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/50f8ec42-e33f-4d2b-8831-33147dc275ef">
+  <img width="716" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/2eb8c683-544b-4454-9eff-a9c8bc575316">
+  <img width="716" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/a7e79214-d0df-48bd-a2bb-36748b6278d4">
+  <img width="716" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/0fbe4714-f33d-4f52-8efc-3e055a124d76">
+  <img width="716" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/dce74a43-0681-49d9-a4f7-cd24ab1a3390">
+  <img width="716" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/851199f7-ae1d-4d0c-bb06-d8539b2150dd">
+  <img width="716" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/50f8ec42-e33f-4d2b-8831-33147dc275ef">
    
