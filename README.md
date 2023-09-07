@@ -1,134 +1,32 @@
 # Restraunt-Management-System
 
-------------------------------------------------------------------------------------------------------------
-                                        || WELCOME TO RESTRAUNT MANAGEMENT SYSTEM ||
-------------------------------------------------------------------------------------------------------------
-Login as :
-1. Manager
-2. Cashier
-3. Waiter
-4. Exit
-Select User : 3
-Enter your Password : 1234
---------------------------WELCOME TO WAITERS PORTAL-----------------------
-You have the following access :
-1. Take Order
-2. Exit
-Select option :
-1
+I have created a consol based Restraunt Management program in java, using the concept of object oriented programming. The Program has 3 types of users namely Manager, Cashier and Waiter. Waiter is the base class with minimum rights and functionalities, cashier class inherits waiter class and has some additional functionalities and rights. Manager class is at the leaf of multilevel inheritance and has the highest rights. 
 
------------------------------
-1.Burgur
-2.Pizza
-3.Sandwich
------------------------------
-Enter your choice : 1
-------------------------------
-1.Aloo Tikki Burgur      - 120
-2.Maxican Burgur         - 140
-3.American Cheese Burgur - 160
-------------------------------
-Enter your choice : 2
-Enter Quantity : 2
-Want to add more item (1/0) : 0
-Select User : 2
-Enter your Password : 0000
---------------------------WELCOME TO CASHIER PORTAL-----------------------
-You have the following access :
-1. Take Order
-2. Print Bill
-3. Add customer's detail
-4. View customer's detail
-5. Exit
-Select option :
-2
+**Functionalities of Waiter Class**
+- Take Order
+  
+**Functionalities of Cashier Class**
+- Take Order
+- Print Bill
+- Add customer's details
+- View customer's details
 
-----------------------------------------------------------
-----------------------MODERN DHABA------------------------
-FOOD ITEM        |    QUANTITY     |    PRICE
-Maxican Burgur |    2     |    140
-----------------------------------------------------------
-                ->Total : 280
-----------------------------------------------------------
-                                           Thank You .....
-----------------------------------------------------------
-Select option :
-4
-------------------------CUSTOMER'S DETAILS--------------
-|     Name    |    Phone Number    |    Email ID    |
------------------------------------------------------------------------
- | Priya | 76443878 | priya@gmail.com | 
------------------------------------------------------------------------
------------------------------------------------------------------------
- | sam | 343 | sam@gmai.com |
------------------------------------------------------------------------
------------------------------------------------------------------------
- | Joe | 374653 | joe@gmail.com |
------------------------------------------------------------------------
-Select option :
-3
-Enter customer's name : Rohan
-Enter customer's email id : rohan@gmail.com
-Enter customer's phone number : 37564
-Select option : 
-4
-------------------------CUSTOMER'S DETAILS--------------
-|     Name    |    Phone Number    |    Email ID    |
------------------------------------------------------------------------
- | Priya | 76443878 | priya@gmail.com |
------------------------------------------------------------------------
------------------------------------------------------------------------
- | sam | 343 | sam@gmai.com |
------------------------------------------------------------------------
------------------------------------------------------------------------
- | Joe | 374653 | joe@gmail.com |
------------------------------------------------------------------------
------------------------------------------------------------------------
- | Rohan | 37564 | rohan@gmail.com |
------------------------------------------------------------------------
-Select option :
-5
-Select User : 1
-Enter your Password : 6666
---------------------------WELCOME TO MANAGERS PORTAL-----------------------
-You have the following access :
-1. Add customer's detail
-2. View customer's detail
-3. Add Staff's detail
-4. View Staff's detail
-5. Exit
-Select option :
-3
-Enter Staff Member's  name : Raj
-Enter Staff Post : Cheif
-Enter Staff Member's  Phone Number : 43398
-Enter Staff Member's Salary : 50000
-Select option : 
-4
-------------------------STAFF'S DETAILS--------------
-|     Name    |    Post   |   Phone Number  |  Salary(Rs) |
------------------------------------------------------------------------------
- | Priya | manager | 7856448856 | 150000.0 |
-------------------------------------------------------------------------------
------------------------------------------------------------------------------
- | Raj | Cheif | 43398 | 50000.0 | 
-------------------------------------------------------------------------------
-Select option :
-2
-------------------------CUSTOMER'S DETAILS--------------
-|     Name    |    Phone Number    |    Email ID    |
------------------------------------------------------------------------
- | Priya | 76443878 | priya@gmail.com |
------------------------------------------------------------------------
------------------------------------------------------------------------
- | sam | 343 | sam@gmai.com |
------------------------------------------------------------------------
------------------------------------------------------------------------
- | Joe | 374653 | joe@gmail.com |
------------------------------------------------------------------------
------------------------------------------------------------------------
- | Rohan | 37564 | rohan@gmail.com |
------------------------------------------------------------------------
-Select option :
-5
-Select User : 4
+**Functionalities of Manager Class**
+- Add customer's details
+- view customer's details
+- Add staff details
+- View staff details
+
+`
+
+  Here are the scree-shots of the program. 
+
+  `
+  <img width="716" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/3963996c-c674-4496-b730-1e0ed2dff4e2">
+  <img width="572" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/2eb8c683-544b-4454-9eff-a9c8bc575316">
+  <img width="554" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/a7e79214-d0df-48bd-a2bb-36748b6278d4">
+  <img width="484" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/0fbe4714-f33d-4f52-8efc-3e055a124d76">
+  <img width="524" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/dce74a43-0681-49d9-a4f7-cd24ab1a3390">
+  <img width="565" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/851199f7-ae1d-4d0c-bb06-d8539b2150dd">
+  <img width="602" alt="image" src="https://github.com/Priya-1543/Restraunt-Management-System/assets/97608679/50f8ec42-e33f-4d2b-8831-33147dc275ef">
+   
